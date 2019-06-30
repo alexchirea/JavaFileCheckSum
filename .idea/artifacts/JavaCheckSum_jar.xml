@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaCheckSum:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaCheckSum_jar</output-path>
+    <root id="archive" name="JavaCheckSum.jar">
+      <element id="module-output" name="JavaCheckSum" />
+    </root>
+  </artifact>
+</component>
